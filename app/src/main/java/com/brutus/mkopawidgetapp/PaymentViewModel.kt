@@ -83,7 +83,7 @@ class PaymentViewModel(application: Application) : AndroidViewModel(application)
                 withContext(Dispatchers.Main) {
                     _isLoading.value = false
                     // Indicate that the payment request has been made
-                    _paymentDone.value = true
+                    //_paymentDone.value = true
                 }
             }
         }
