@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "999999999999",
+    "project_id": "mkopa-666666",
+    "storage_bucket": "mkopa-666666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999999999999:android:06f493eaf84580feeda15f",
+        "android_client_info": {
+          "package_name": "com.brutus.mkopawidgetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999999999999-2dvbgdooi16pmlf4t1rv2h78fasp32rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brutus.mkopawidgetapp",
+            "certificate_hash": "hash1"
+          }
+        },
+        {
+          "client_id": "999999999999-kseln3uc0et28skk3s15tvvk9m7tquid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brutus.mkopawidgetapp",
+            "certificate_hash": "hash2"
+          }
+        },
+        {
+          "client_id": "999999999999-lb95glva2v8sm17vqbnupvsjgidcislq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brutus.mkopawidgetapp",
+            "certificate_hash": "hash3"
+          }
+        },
+        {
+          "client_id": "999999999999-gep61qsis0r44shct4tdmjtfpkshotjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "APIKEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999999999999-gep61qsis0r44shct4tdmjtfpkshotjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

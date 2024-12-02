@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MKopaWidgetApp</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+</resources>
